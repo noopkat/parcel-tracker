@@ -1,0 +1,17 @@
+{
+  "name": "passport-checker-container",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suz Hinton",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "node-cron": "^1.2.1",
+    "puppeteer": "^0.13.0",
+    "twilio": "^3.10.1"
+  }
+}
