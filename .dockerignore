@@ -1,1 +1,7 @@
 node_modules
+volume
+fileStorageScript.sh
+.env.example
+.gitignore
+LICENSE
+README.md
